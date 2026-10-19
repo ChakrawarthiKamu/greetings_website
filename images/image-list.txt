@@ -1,0 +1,83 @@
+# ==========================================================================
+#  Real photo list  (used by get-real-images.bat / get-real-images.sh)
+#
+#  Format:   local file path | Unsplash photo ID | width
+#  All photos are from Unsplash (unsplash.com) under the Unsplash License:
+#  free for personal and commercial use, no permission or credit needed.
+#  To swap a photo: find one on unsplash.com, copy the ID from the end of its
+#  address (e.g. unsplash.com/photos/pink-roses-oEWdQsbRVZk → oEWdQsbRVZk),
+#  paste it here and run the script again.  Or simply replace the .jpg file.
+# ==========================================================================
+
+# ---- Poster backgrounds (full poster) ----
+images/backgrounds/bg-balloons-pastel.jpg    | YrJ2GOayvUA | 1080
+images/backgrounds/bg-balloons-sky.jpg       | iQaFCjuMTfo | 1080
+images/backgrounds/bg-balloons-pink-gold.jpg | aJfLWzEUc54 | 1080
+images/backgrounds/bg-balloons-colorful.jpg  | TjgW7qxJxFo | 1080
+images/backgrounds/bg-balloons-streamers.jpg | SYfH2bqf1yk | 1080
+images/backgrounds/bg-confetti-sky.jpg       | uW_oj3jOPRg | 1080
+images/backgrounds/bg-confetti-white.jpg     | lgi3W65lmvA | 1080
+images/backgrounds/bg-confetti-floor.jpg     | H67AHfpKhZk | 1080
+images/backgrounds/bg-gold-stars.jpg         | QJoSKuBVQjU | 1080
+images/backgrounds/bg-bokeh-gold.jpg         | HQ3X0urfdUg | 1080
+images/backgrounds/bg-bunting-lights.jpg     | gG6yehL64fo | 1080
+images/backgrounds/bg-ribbons.jpg            | u2ZhOJhJ3zE | 1080
+images/backgrounds/bg-pink-roses.jpg         | oEWdQsbRVZk | 1080
+images/backgrounds/bg-flowers-lace.jpg       | Zk453U_xIuA | 1080
+images/backgrounds/bg-wedding-flowers.jpg    | qfX5G5prBE4 | 1080
+images/backgrounds/bg-red-roses.jpg          | dulCUlygT6M | 1080
+images/backgrounds/bg-fireworks.jpg          | WPTHZkA-M4I | 1080
+images/backgrounds/bg-diya.jpg               | xisPXJqwQkA | 1080
+images/backgrounds/bg-christmas-tree.jpg     | Ym4my-Xj8EY | 1080
+images/backgrounds/bg-india-flag.jpg         | lRn-xT7SHOA | 1080
+images/backgrounds/bg-leaves.jpg             | 70l1tDAI6rM | 1080
+images/backgrounds/bg-books-apple.jpg        | eiSurJxI_u8 | 1080
+images/backgrounds/bg-gifts.jpg              | gQhrrWOG60c | 1080
+
+# ---- Main photos (shown inside the circle / heart / arch shapes) ----
+images/photos/cake-candles.jpg     | d8s13D29QiE | 900
+images/photos/cake-pink.jpg        | gK297xpY6os | 900
+images/photos/cake-sparkler.jpg    | ys8qztLjJyg | 900
+images/photos/cupcakes.jpg         | -gDHgEcec6Q | 900
+images/photos/rings-roses.jpg      | M2T1j-6Fn8w | 900
+images/photos/couple-hands.jpg     | sqWzP97H_bo | 900
+images/photos/diya.jpg             | kFoDjNpM1vg | 900
+images/photos/christmas-baubles.jpg| Uz9w7XZnEkA | 900
+images/photos/fireworks.jpg        | 5mj5jLhYWpY | 900
+images/photos/pink-bouquet.jpg     | 3h5kKCsa9us | 900
+images/photos/red-roses.jpg        | Ean20tkrbv4 | 900
+images/photos/gift-pink.jpg        | f94JPVrDbnY | 900
+images/photos/gift-gold.jpg        | vdkAt1S7fCc | 900
+images/photos/india-flag.jpg       | 9Dt4WutvwDs | 900
+images/photos/apple-books.jpg      | sswAmKr0fGY | 900
+images/photos/leaf-drops.jpg       | NeH6-YKTwUI | 900
+images/photos/balloons-hand.jpg    | vrkSVpOwchk | 900
+images/photos/balloons-blue.jpg    | 1VDWmab-Glk | 900
+images/photos/party-people.jpg     | ZODcBkEohk8 | 900
+images/photos/confetti-woman.jpg   | WNVGLwGMCAg | 900
+images/photos/polka-balloons.jpg   | l6yLVM-FJxc | 900
+images/photos/birthday-balloons.jpg| 18N4okmWccM | 900
+
+# ---- Occasion cards on the home page ----
+images/events/birthday.jpg         | Hli3R6LKibo | 800
+images/events/wedding.jpg          | ZYet8yoepik | 800
+images/events/anniversary.jpg      | llWjwo200fo | 800
+images/events/baby-shower.jpg      | EOebHxC4DaA | 800
+images/events/festivals.jpg        | Pg2jm-PMVWs | 800
+images/events/diwali.jpg           | xisPXJqwQkA | 800
+images/events/christmas.jpg        | 4D160Ilvm2k | 800
+images/events/new-year.jpg         | z4knuWP5MMk | 800
+images/events/mothers-day.jpg      | QLuleNy8LMM | 800
+images/events/fathers-day.jpg      | L99DoqmExQE | 800
+images/events/friendship-day.jpg   | tIr-PWgSYB4 | 800
+images/events/womens-day.jpg       | INvLInqJ-Ms | 800
+images/events/valentines-day.jpg   | ZXCpWu8AIWs | 800
+images/events/independence-day.jpg | 9Dt4WutvwDs | 800
+images/events/republic-day.jpg     | A6KPfUL2OZY | 800
+images/events/teachers-day.jpg     | bjP-yqD89dk | 800
+images/events/environment-day.jpg  | WS5yjFjycNY | 800
+
+# ---- Page header backgrounds ----
+images/backgrounds/birthday-bg.jpg     | Efz7CTysCnE | 1920
+images/backgrounds/birthday-bg-alt.jpg | uGP_6CAD-14 | 1920
+images/backgrounds/confetti-bg.jpg     | Xaanw0s0pMk | 1920
